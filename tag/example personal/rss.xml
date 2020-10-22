@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Tran Le Bich Nhi • Posts by &#34;example personal&#34; tag</title>
+        <link>https://nhitran.tk</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Thu, 22 Oct 2020 21:13:52 +0700</pubDate>
+        <lastBuildDate>Thu, 22 Oct 2020 21:13:52 +0700</lastBuildDate>
+        <category>example personal</category>
+        <item>
+            <guid isPermalink="true">https://nhitran.tk/2020/10/22/Example/</guid>
+            <title>My Example</title>
+            <link>https://nhitran.tk/2020/10/22/Example/</link>
+            <category>example personal</category>
+            <pubDate>Thu, 22 Oct 2020 21:13:52 +0700</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;my-personal-experience&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#my-personal-experience&#34;&gt;#&lt;/a&gt; My personal experience&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;abc&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;bacb&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;abc&lt;/li&gt;
+&lt;li&gt;dfkjl&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;fdlkjfsl&lt;/li&gt;
+&lt;li&gt;fsdljfljds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;content&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;[author[&lt;/strong&gt;&lt;cite&gt;source]] [link] [source_link_title]&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,43 +1,16 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title>My Personal Blog</title>
-        <link>https://nhitran.tk</link>
-        <description></description>
-        <language>en</language>
-        <pubDate>Fri, 23 Oct 2020 22:01:56 +0700</pubDate>
-        <lastBuildDate>Fri, 23 Oct 2020 22:01:56 +0700</lastBuildDate>
-        <category>hoài niệm</category>
-        <category>ngày nhà giáo việt nam</category>
-        <item>
-            <guid isPermalink="true">https://nhitran.tk/2020/10/23/hello-world/</guid>
-            <title>Hello World</title>
-            <link>https://nhitran.tk/2020/10/23/hello-world/</link>
-            <pubDate>Fri, 23 Oct 2020 22:01:56 +0700</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://nhitran.tk/2020/10/23/Hoai-Niem-Tac-pham-bao-tuong-20-11-2010/</guid>
-            <title>Hoài Niệm - Tác phẩm báo tường 20/11/2010</title>
-            <link>https://nhitran.tk/2020/10/23/Hoai-Niem-Tac-pham-bao-tuong-20-11-2010/</link>
-            <category>hoài niệm</category>
-            <category>ngày nhà giáo việt nam</category>
-            <pubDate>Fri, 23 Oct 2020 21:33:15 +0700</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;Lời ngỏ&lt;/strong&gt;&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nhitran.tk</id>
+    <title>My Personal Blog • Posts by &#34;hoài niệm&#34; tag</title>
+    <link href="https://nhitran.tk" />
+    <updated>2020-10-23T14:33:15.000Z</updated>
+    <category term="hoài niệm" />
+    <category term="ngày nhà giáo việt nam" />
+    <entry>
+        <id>https://nhitran.tk/2020/10/23/Hoai-Niem-Tac-pham-bao-tuong-20-11-2010/</id>
+        <title>Hoài Niệm - Tác phẩm báo tường 20/11/2010</title>
+        <link rel="alternate" href="https://nhitran.tk/2020/10/23/Hoai-Niem-Tac-pham-bao-tuong-20-11-2010/"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;Lời ngỏ&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Tác phẩm này là thành tựu nho nhỏ đầu đời của tôi khi còn là học sinh cấp 3 ở trường chuyên Hùng Vương thuộc Thủ Dầu Một, tỉnh Bình Dương. Đây cũng là niềm động viên rất lớn với tôi mỗi khi nhìn lại trong sự nghiệp viết lách. Đặc biệt hơn là, tác phẩm này gắn liền với kỷ niệm học đường mà mỗi người chỉ trải qua một lần trong đời, dù tình tiết trong tác phẩm là hư cấu, nhưng tôi đã viết bằng cả trái tim của mình.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/images/lop12a.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1&gt;Hoài Niệm&lt;/h1&gt;  
@@ -54,7 +27,9 @@
 &lt;p&gt;Ai đã tặng cho tôi một bài thơ dang dở, làm tôi buồn đứng đợi chờ khôn nguôi. Chờ nửa vần thơ dưới cơn mưa phượng vĩ, ta chợt thấy lòng bồi hồi bao cảm xúc. Từng sợi nắng đan xen qua kẽ lá, dệt thứ ánh sáng thiên đường, lung linh cười tha thiết. Ta thấy hè năm nay đến sớm quá! Chưa kịp trao lưu bút tặng ai kia. Thời học trò bên chiếc xe đạp cũ, có chở ta về ngày ấy hay không?&lt;/p&gt;
 &lt;p&gt;Trần Lê Bích Nhi&lt;/p&gt;
 &lt;p&gt;(Tác phẩm đạt Giải Nhất trong cuộc thi Viết Báo Tường niên khoá 2009-2010)&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="hoài niệm" />
+        <category term="ngày nhà giáo việt nam" />
+        <updated>2020-10-23T14:33:15.000Z</updated>
+    </entry>
+</feed>

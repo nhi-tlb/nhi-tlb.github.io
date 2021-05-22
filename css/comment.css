@@ -270,15 +270,16 @@
   color: var(--grey-1);
   padding: 0 0.3125rem;
   margin-right: 0.5rem;
+  background-color: var(--color-grey);
 }
 .v .item .tag.master {
-  background: var(--color-orange);
+  background-color: var(--color-orange);
 }
 .v .item .tag.friend {
-  background: var(--color-aqua);
+  background-color: var(--color-aqua);
 }
-.v .item .tag.visitor {
-  background: var(--color-grey);
+.v .item .tag.investor {
+  background-color: var(--color-pink);
 }
 .v .item .at {
   color: var(--primary-color);
